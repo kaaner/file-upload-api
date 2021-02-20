@@ -1,0 +1,12 @@
+C:\Users\yasar.budak\source\repos\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.csprojAssemblyReference.cache
+C:\Users\yasar.budak\source\repos\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.AssemblyInfoInputs.cache
+C:\Users\yasar.budak\source\repos\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.AssemblyInfo.cs
+C:\Users\yasar.budak\source\repos\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.csproj.CoreCompileInputs.cache
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\bin\Debug\netcoreapp3.1\FileUpload.Core.deps.json
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\bin\Debug\netcoreapp3.1\FileUpload.Core.dll
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\bin\Debug\netcoreapp3.1\FileUpload.Core.pdb
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.AssemblyInfoInputs.cache
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.AssemblyInfo.cs
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.csproj.CoreCompileInputs.cache
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.dll
+C:\Users\shama\Desktop\FileUpload\FileUpload.Core\obj\Debug\netcoreapp3.1\FileUpload.Core.pdb
