@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UQT+tZ8NP7EEze9r+xALX4OykunP35L0NiBhkfnkFnVMLT7Brj76/L2YEaRP50KWycsRUb4DqHtepelZfzShw==",
+  "dgSpecHash": "5FzGxF7/rRD5Nv+OTvbeQPz+8BNmkkOd2ItQV927bBTzQVOv15ecy7UO1vyV7ZPtwoq7ngKnTy4rwVaRhWybEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Core\\FileUpload.Core.csproj",
+  "projectFilePath": "C:\\Repo\\file-upload-api\\FileUpload.Core\\FileUpload.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

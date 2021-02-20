@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Test\\FileUpload.Test.csproj",
+      "projectUniqueName": "C:\\Repo\\file-upload-api\\FileUpload.Test\\FileUpload.Test.csproj",
       "projectName": "FileUpload.Test",
-      "projectPath": "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Test\\FileUpload.Test.csproj",
+      "projectPath": "C:\\Repo\\file-upload-api\\FileUpload.Test\\FileUpload.Test.csproj",
       "packagesPath": "C:\\Users\\shama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Test\\obj\\",
+      "outputPath": "C:\\Repo\\file-upload-api\\FileUpload.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5758,8 +5758,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Core\\FileUpload.Core.csproj": {
-              "projectPath": "C:\\Users\\shama\\Desktop\\FileUpload\\FileUpload.Core\\FileUpload.Core.csproj"
+            "C:\\Repo\\file-upload-api\\FileUpload.Core\\FileUpload.Core.csproj": {
+              "projectPath": "C:\\Repo\\file-upload-api\\FileUpload.Core\\FileUpload.Core.csproj"
             }
           }
         }
